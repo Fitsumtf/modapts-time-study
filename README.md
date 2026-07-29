@@ -1,5 +1,7 @@
 # modapts-time-study
 
+![Observed vs MODAPTS comparison](examples/harness_bracket_comparison.png)
+
 **Stopwatch time studies + MODAPTS predetermined times + takt analysis — and the comparison between them.**
 
 A Python toolkit for manufacturing and industrial engineers that answers three questions every assembly station must face:
