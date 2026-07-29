@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+modapts_time_study/__init__.py
+modapts_time_study/cli.py
+modapts_time_study/compare.py
+modapts_time_study/modapts.py
+modapts_time_study/takt.py
+modapts_time_study/timestudy.py
+modapts_time_study.egg-info/PKG-INFO
+modapts_time_study.egg-info/SOURCES.txt
+modapts_time_study.egg-info/dependency_links.txt
+modapts_time_study.egg-info/entry_points.txt
+modapts_time_study.egg-info/requires.txt
+modapts_time_study.egg-info/top_level.txt
+tests/test_core.py
