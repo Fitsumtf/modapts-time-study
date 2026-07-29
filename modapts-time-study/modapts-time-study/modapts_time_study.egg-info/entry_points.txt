@@ -1,2 +1,0 @@
-[console_scripts]
-modapts-time-study = modapts_time_study.cli:main
